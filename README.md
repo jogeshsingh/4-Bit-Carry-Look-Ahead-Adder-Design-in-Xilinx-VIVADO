@@ -1,0 +1,2 @@
+# 4-Bit-Carry-Look-Ahead-Adder-Design-in-Xilinx-VIVADO
+This Project is basically representing the functionality of Carry Look Ahead adder unit which includes propagation and carry generation logic , which is fed back to carry logic unit to process the carry output so that delay could be lightened as in case of ripple carry adder there is a delay due to carry  being added in next adder logic but Look ahead adder mitigates this limitation . the only limitation this design has is enough hardware is required . This project was made using Verilog HDL.
